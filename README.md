@@ -4,7 +4,7 @@ Visualytics is an **interactive, professional-grade data visualization dashboard
 
 ## **Live Demo**
 
-View Here: https://visualytics-interactive-data-visualization-dashboard-d4eknp6.streamlit.app/
+View Here: [https://visualytics-interactive-data-visualization-dashboard-d4eknp6.streamlit.app/]
 
 ---
 
