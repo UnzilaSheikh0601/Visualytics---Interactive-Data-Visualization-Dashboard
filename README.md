@@ -1,4 +1,4 @@
-# 💎 Visualytics - Interactive Data Visualization Dashboard
+# Visualytics - Interactive Data Visualization Dashboard
 
 Visualytics is an **interactive, professional-grade data visualization dashboard** built with **Python, Streamlit, Plotly, and Pandas**. It allows users to **explore, analyze, and visualize CSV datasets** instantly, with built-in filtering, KPIs, and predictive analytics.
 
@@ -8,7 +8,7 @@ View Here: https://visualytics-interactive-data-visualization-dashboard-d4eknp6.
 
 ---
 
-## **🚀 Features**
+## **Features**
 
 ### **1. Home Tab**
 - Welcome interface with instructions.
@@ -50,7 +50,7 @@ View Here: https://visualytics-interactive-data-visualization-dashboard-d4eknp6.
 
 ---
 
-## **📦 Technologies Used**
+## **Technologies Used**
 - **Python** (Data processing & logic)
 - **Streamlit** (Web dashboard)
 - **Pandas & Numpy** (Data manipulation)
@@ -59,7 +59,7 @@ View Here: https://visualytics-interactive-data-visualization-dashboard-d4eknp6.
 
 ---
 
-## **📂 Usage Instructions**
+## **Usage Instructions**
 1. Clone the repo:
 git clone <repo-url>
 2. Install dependencies:
@@ -70,7 +70,7 @@ streamlit run app.py
 
 Explore KPIs, filters, and charts dynamically.
 
-## 📂 Sample Datasets
+## Sample Datasets
 To explore the dashboard features, you can use the included sample datasets:
 
 - `sample_sales.csv` – Sales data with regions, products, and dates  
@@ -83,7 +83,7 @@ The sample datasets used in this project are inspired by real-world data scenari
 
 Upload any of these datasets from the sidebar to immediately generate KPIs, charts, and forecasts.
 
-💡 Notes
+Notes
 
 - CSV should ideally contain:
 - At least one numeric column
